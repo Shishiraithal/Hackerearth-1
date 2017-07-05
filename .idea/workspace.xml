@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce380698-32e2-43e1-b2c1-2852858f0b6e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/RepeatedKTimes.java" afterPath="$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/RepeatedKTimes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/SimpleSearch.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -21,16 +22,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package-info.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithms/package-info.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -106,11 +97,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RepeatedKTimes.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RepeatedKTimes.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/RepeatedKTimes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="524">
               <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleSearch.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/SimpleSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -144,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/MannasFirstName.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/TheNormalType.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/RepeatedKTimes.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/SimpleSearch.java" />
       </list>
     </option>
   </component>
@@ -763,6 +765,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="524">
           <caret line="27" column="19" lean-forward="false" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/SimpleSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
           <folding />
         </state>
       </provider>
