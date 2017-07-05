@@ -9,7 +9,6 @@ import java.io.InputStreamReader;
  */
 public class RestInPeace {
     public static void main (String[] args) throws IOException {
-        //Scanner in = new Scanner(System.in);
         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
         int n = Integer.parseInt(in.readLine());
         for (int i=0;i<n;i++) {
