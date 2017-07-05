@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce380698-32e2-43e1-b2c1-2852858f0b6e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithms/Searching/Sorting/BubbleSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithms/Searching/Sorting/SavePatients.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Algorithms/Searching/Sorting/TheBestPlayer.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -23,16 +22,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinMax.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/MinMax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -81,8 +70,8 @@
       <file leaf-file-name="SimpleSearch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/SimpleSearch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="420">
+              <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -110,12 +99,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SavePatients.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SavePatients.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Algorithms/Searching/Sorting/SavePatients.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="220">
               <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TheBestPlayer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Algorithms/Searching/Sorting/TheBestPlayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -148,10 +149,11 @@
         <option value="$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/MannasFirstName.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/TheNormalType.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/RepeatedKTimes.java" />
-        <option value="$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/SimpleSearch.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/RestInPeace.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Searching/Sorting/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/Algorithms/Searching/Sorting/SavePatients.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/SimpleSearch.java" />
+        <option value="$PROJECT_DIR$/src/Algorithms/Searching/Sorting/TheBestPlayer.java" />
       </list>
     </option>
   </component>
@@ -775,14 +777,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/SimpleSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/RestInPeace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -806,6 +800,24 @@
         <state relative-caret-position="220">
           <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Searching/LinearSearch/SimpleSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Algorithms/Searching/Sorting/TheBestPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
